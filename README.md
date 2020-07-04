@@ -21,8 +21,6 @@ library(name of the package you want to load)
 
 > Plot 
 
-![download](https://user-images.githubusercontent.com/30586187/86515206-008ce800-be35-11ea-82c3-d4820a7fc0ec.png)
-
-[Click here to view me](https://user-images.githubusercontent.com/30586187/86515206-008ce800-be35-11ea-82c3-d4820a7fc0ec.png)
+[Click here to view the plot](https://user-images.githubusercontent.com/30586187/86515206-008ce800-be35-11ea-82c3-d4820a7fc0ec.png)
 
 > Happy Predictions through Random Forest
